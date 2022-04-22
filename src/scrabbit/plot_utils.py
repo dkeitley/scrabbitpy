@@ -1,8 +1,8 @@
 celltype_colours = {
 					  # Existing mouse colours
-                      "Definitive Endoderm" = "#EF4E22",
-                      "Gut endoderm" = "#EF5A9D",
-                      "Megakaryocytes" = "#ac0404",
+                      "Definitive Endoderm" : "#EF4E22",
+                      "Gut endoderm" : "#EF5A9D",
+                      "Megakaryocytes" : "#ac0404",
                       "Visceral YS endoderm" : "#9d506e",
                       "Parietal YS endoderm" : "#1A1A1A",
                       "Epiblast" : "#635547",
